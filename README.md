@@ -10,3 +10,11 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+Segudna desafio:
+Recuperações simples com SELECT Statement;
+Filtros com WHERE Statement;
+Crie expressões para gerar atributos derivados;
+Defina ordenações dos dados com ORDER BY;
+Condições de filtros aos grupos – HAVING Statement;
+Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
